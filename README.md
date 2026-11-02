@@ -6,7 +6,7 @@ I am a recent Data Science graduate from Wilfrid Laurier University with an inte
 
 I enjoy exploring datasets, identifying patterns, solving problems, and communicating analytical findings to support better decision-making.
 
-### 🛠️ Technical Skills
+### Technical Skills
 
 - **Programming:** Python, SQL
 - **Data Visualization:** Tableau, Power BI, Dash, Plotly
@@ -14,7 +14,7 @@ I enjoy exploring datasets, identifying patterns, solving problems, and communic
 - **Databases:** SQL Server, Relational Databases
 - **Tools:** Excel, Git, Microsoft Azure
 
-### 📊 Featured Projects
+### Featured Projects
 
 **Canadian Census Workforce Dashboard**
 
@@ -24,12 +24,12 @@ Analyzed Canadian workforce data to identify employment trends, develop KPIs, an
 
 Explored application performance, order patterns, technical issues, and predictive analytics to support operational decision-making.
 
-### 🎓 Education
+### Education
 
 **Wilfrid Laurier University**
 
 Honours Bachelor of Science – Data Science | 2026
 
-### 📫 Let's Connect
+### Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/malika-nagpal/)
+- (https://www.linkedin.com/in/malika-nagpal/)
