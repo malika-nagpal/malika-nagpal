@@ -1,4 +1,4 @@
-# Hi, I am Malika Nagpal! 👋
+# Hi, I am Malika Nagpal! 
 
 ### Data Science Graduate | Data Analytics | Business Intelligence
 
